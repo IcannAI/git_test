@@ -1,1 +1,2 @@
 I open hello_world.txt, and add some text to it, save it, and stage it.
+Continuing working on the Odin Project, the code is visible to the browser.
