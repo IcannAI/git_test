@@ -12,3 +12,8 @@ em{
     background-color: #000000;
     color: #ffffff;
 }
+
+ul {
+    list-style-type: square;
+}
+
